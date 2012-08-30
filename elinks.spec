@@ -3,7 +3,7 @@
 Summary:	Experimantal Links (text WWW browser)
 Name:		elinks
 Version:	0.13
-Release:	1.%{snap}
+Release:	2.%{snap}
 Epoch:		1
 License:	GPL
 Group:		Applications/Networking
@@ -18,6 +18,7 @@ BuildRequires:	expat-devel
 BuildRequires:	gettext-devel
 BuildRequires:	gnutls-devel
 BuildRequires:	gpm-devel
+BuildRequires:	libidn-devel
 BuildRequires:	ncurses-devel
 BuildRequires:	zlib-devel
 Provides:	webclient
