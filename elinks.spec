@@ -1,4 +1,4 @@
-%define		snap	20120806
+%define		snap	20131222
 
 Summary:	Experimantal Links (text WWW browser)
 Name:		elinks
@@ -9,7 +9,7 @@ License:	GPL
 Group:		Applications/Networking
 #Source0:	http://elinks.or.cz/download/%{name}-%{version}%{pre}.tar.bz2
 Source0:	http://www.elinks.cz/download/%{name}-current-%{version}.tar.bz2
-# Source0-md5:	2b2246e2783d38be713ead87dc318f61
+# Source0-md5:	2e9cdc7dc5abd7b9fabd48d5ff6147a2
 URL:		http://elinks.or.cz/
 BuildRequires:	autoconf
 BuildRequires:	automake
